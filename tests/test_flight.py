@@ -14,7 +14,7 @@ def driver_actions(request):
     direct_path = os.path.dirname(os.path.realpath(__file__))
     direct_path = os.path.abspath(os.path.join(direct_path, '..'))
     #request.cls.driver = webdriver.Chrome(direct_path + '/resources/chromedriver.exe')
-    request.cls.driver = webdriver.Chrome()
+    request.cls.driver = webdriver.Chrome("/usr/bin/chromedriver")
     request.cls.startup = StartUpPage(request.cls.driver)
     request.cls.register = RegisterPage(request.cls.driver)
     request.cls.booking = BookingPage(request.cls.driver)
