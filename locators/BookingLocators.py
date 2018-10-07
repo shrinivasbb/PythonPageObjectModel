@@ -1,0 +1,16 @@
+class BookingLocators:
+
+    cmbPassengers_name = "passCount"
+    rdbRoundTrip_css = "input[value='roundtrip']"
+    rdbOneWay_css = "input[value='oneway']"
+    cmbDepartingFrom_name = "fromPort"
+    cmbFromMonth_name = "fromMonth"
+    cmbFromDate_name = "fromDay"
+    cmbArrivingIn_name = "toPort"
+    cmbToMonth_name = "toMonth"
+    cmbToDate_name = "toDay"
+    rdbEconomy_css = "input[value='Coach']"
+    rdbBusiness_css = "input[value='Business']"
+    rdbFirstClass_css = "input[value='First']"
+    cmbAirline_name = "airline"
+    btnContinue_name = "findFlights"

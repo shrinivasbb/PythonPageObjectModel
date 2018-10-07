@@ -1,0 +1,76 @@
+{
+  "login":
+  {
+    "url":"http://newtours.demoaut.com",
+    "search":"Alphabet",
+    "uid":"shrini",
+    "pwd":"password",
+    "con_pwd":"password"
+  },
+  "test_2_flight_sign_in":
+  {
+    "param1":"param1"
+  },
+  "test_3_book_a_flight":
+  {
+    "type":"oneway",
+    "passenger":"2",
+    "departfrom":"London",
+    "onmonth":"October",
+    "ondate":"20",
+    "arrivingin":"New York",
+    "tomonth":"January",
+    "todate":"28",
+    "class":"business"
+  },
+  "test_book_a_flight":
+  {
+    "type":"oneway",
+    "passenger":"2",
+    "departfrom":"London",
+    "onmonth":"October",
+    "ondate":"20",
+    "arrivingin":"New York",
+    "tomonth":"January",
+    "todate":"28",
+    "class":"business",
+    "airline": "Unified Airlines",
+    "label": ["DEPART", "RETURN"]
+  },
+  "test_2_book_a_flight":
+  {
+    "type":"oneway",
+    "passenger":"2",
+    "departfrom":"London",
+    "onmonth":"October",
+    "ondate":"20",
+    "arrivingin":"New York",
+    "tomonth":"January",
+    "todate":"28",
+    "class":"business"
+  },
+  "test_flight_1":
+  {
+    "type":"oneway",
+    "passenger":"2",
+    "departfrom":"London",
+    "onmonth":"October",
+    "ondate":"20",
+    "arrivingin":"New York",
+    "tomonth":"January",
+    "todate":"28",
+    "class":"business"
+  },
+  "test_flight_2":
+  {
+    "type":"oneway",
+    "passenger":"2",
+    "departfrom":"London",
+    "onmonth":"October",
+    "ondate":"20",
+    "arrivingin":"New York",
+    "tomonth":"January",
+    "todate":"28",
+    "class":"business"
+  }
+}
