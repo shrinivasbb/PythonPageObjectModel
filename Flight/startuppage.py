@@ -17,7 +17,7 @@ class StartUpPage(object):
         self.wb = WebDriverWait(driver, 60)
 
     def navigate_to_url(self, url):
-        self.driver.maximize_window()
+        #self.driver.maximize_window()
         self.driver.get(url)
         return StartUpPage(self.driver)
 
