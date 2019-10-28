@@ -13,5 +13,5 @@ pytest-rerunfailures==4.1
 pytest-xdist==1.23.0
 python-dateutil==2.7.3
 requests==2.20.0
-selenium==3.14.0
+selenium==3.141.0
 webium==1.2.1
