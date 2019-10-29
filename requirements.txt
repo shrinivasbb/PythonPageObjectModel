@@ -6,7 +6,7 @@ pytest==3.8.0
 pytest-concurrent==0.1.2
 pytest-forked==0.2
 pytest-html==1.19.0
-pytest-metadata==1.7.0
+pytest-metadata==1.8.0
 pytest-parallel==0.0.3
 pytest-reportportal==1.0.4
 pytest-rerunfailures==4.1
