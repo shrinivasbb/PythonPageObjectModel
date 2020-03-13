@@ -2,7 +2,7 @@ allure-pytest==2.5.1
 allure-python-commons==2.5.1
 jsonreader==0.0.1
 jsonschema==2.6.0
-pytest==3.8.0
+pytest==5.4.0
 pytest-concurrent==0.1.2
 pytest-forked==0.2
 pytest-html==1.19.0
