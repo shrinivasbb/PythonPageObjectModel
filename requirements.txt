@@ -10,7 +10,7 @@ pytest-metadata==1.7.0
 pytest-parallel==0.0.3
 pytest-rerunfailures==4.1
 pytest-xdist==1.23.0
-python-dateutil==2.7.3
+python-dateutil==2.8.1
 requests==2.20.0
 selenium==3.14.0
 webium==1.2.1
